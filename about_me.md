@@ -7,9 +7,7 @@ layout: about_layout
 Hello World! 
 ============
 
-----
-
-
+>
 
 Hi! I am Yuejia Yu. You can also call me Yoga. Happy to see you here!
 

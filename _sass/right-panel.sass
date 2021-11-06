@@ -1,0 +1,91 @@
+body
+    background-color: #d9e0d7
+    
+
+.right-panel
+    float: right
+    // display: flex
+    // flex-direction: column
+    width: 27%
+    height: 100%
+    position: fixed
+    
+    right: 0
+    top: 0
+    background-color: #041815
+
+    // opacity: .9
+    padding: 0 100px
+
+    // .overlay-light
+    //     height: 100%
+    //     position: absolute
+    //     z-index: 1
+    //     top: 0
+    //     right: 0
+    //     bottom: 0
+    //     left: 0
+    //     background: #9c9a9a
+    //     opacity: .7
+    .inner
+        // display: flex
+        // flex-direction: row
+        // align-items: center
+        width: 100%
+        height: auto
+        margin: 120px auto
+        // z-index: 50
+        background-color: transparent
+        .logo        
+            margin: 10px auto
+            text-align: right
+            color: $white
+            #icon
+                width: 100px
+                height: 100px
+                border-radius: 100%
+                margin: 0 auto
+                border: 2px $white solid 
+        .menu
+            margin: 50px auto
+            text-align: right            
+            li
+                display: block
+                margin: 40px 0
+                list-style-type: none
+                a
+                    display: flex
+                    font-size: 25px
+                    color: $white
+                    justify-content: flex-end
+                    
+                    text-align: right
+                    i
+                        height: 100%
+                        width: 24px
+                        margin-left: 15px
+                        opacity: 0.9
+
+        .social
+            height: 30px
+            display: flex
+            flex-wrap: wrap
+            justify-content: flex-end
+            margin: 80px 0 0 0
+            li
+                // border: $white solid 2px
+                list-style-type: none
+                margin: 0 0 0 10px
+                
+                a
+                    color: $white
+                    font-size: 18px
+                    &:hover
+                        transform: translateY(-40%)
+                        // text-shadow: 0 -5px $white
+                        // color: transparent 
+                
+                    
+
+
+    

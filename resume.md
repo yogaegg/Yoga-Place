@@ -8,7 +8,9 @@ Yuejia Yu
 
 ----
 
->  Exceptional computer science graduate with keen interpersonal, communications, and resource allocation expertise. Former Data Analyst with extensive project experience across a range of highly analytical projects. 
+Exceptional computer science graduate with keen interpersonal, communications, and resource allocation expertise. Former Data Analyst with extensive project experience across a range of highly analytical projects. 
+
+>
 
 Education
 ---------
@@ -110,23 +112,25 @@ Skills
 
 ---
 
-* Programming Languages:
+Programming Languages:
 
-  * Python
-  * JAVA
-  * C
-  * C#
-* Full Stack Related:
-  * CSS
-  * JavaScript
-  * HTML
-  * Node.js
-  * SQL
-* Others
-  * Android
-  * TensorFlow
-  * Scikit Learn
-  * LaTex
+* Python
+* JAVA
+* C
+* C#
+
+Full Stack Related:
+* CSS
+* JavaScript
+* HTML
+* Node.js
+* SQL
+
+Others
+* Android
+* TensorFlow
+* Scikit Learn
+* LaTex
 
 ----
 

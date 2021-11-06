@@ -3,12 +3,32 @@
 @import 'normalize'
 @import 'style'
 @import 'reset'
-@import 'header'
+@import 'right-panel'
 
+.header
+    // position: fixed
+    display: flex
+    padding-top: 50px 
+    margin: 0 28% 30px 30px
+    justify-content: space-between
+    align-items: flex-end
+    border-bottom: 2px #bdc4bd solid
+    .left
+        span
+            display: inline-block
+            font-size: 14px
+            padding: 8px 10px
+            margin-bottom: 15px
+            background-color: #bdc4bd
+            text-align: center
+        h3
+            font-size: 30px
 .main
     width: 73%
     height: 100%
     color: $primary
     .markdown
-        padding: 100px 50px 50px 50px
+        padding: 0px 50px 50px 50px
+        font-family: myFont
+        letter-spacing: .5px
         color: $primary 
