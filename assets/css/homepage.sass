@@ -55,16 +55,24 @@ body
                 // width: 15%
                 // margin: 5% auto 1.5rem auto
                 // box-sizing: border-box
+                
                 #icon
                     width: 200px
                     height: 200px
-                    border-radius: 100%
+                    // border-radius: 60% 68% 40% 30%/40% 30% 30%
+                    animation: wave 8s ease-in-out infinite
                     margin: 0 30px auto auto
                     filter: drop-shadow(5px 5px 5px $white)
                      
-            .name
-                font-size: 3em
+            .description
                 color: $white
+                .name
+                    font-size: 3em
+                    
+                p
+                    font-style: italic
+                    font-weight: 100
+                
                 
     // .content
     //     width: 80%
